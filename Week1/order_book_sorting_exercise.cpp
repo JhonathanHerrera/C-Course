@@ -130,5 +130,5 @@ int main()
  * 1. Measure the performance of your sorting function with a larger dataset
  * 2. Implement an alternative approach that partitions the orders into buy and sell groups first, -> I did sell <-> buy group
  *    then sorts each group separately. Compare the performance.
- * 3. Optimize for the case where new orders are continuously being added (mostly in timestamp order)
+ * 3. Optimize for the case where new orders are continuously being added (mostly in timestamp order) (I need more clarification on this)
  */
